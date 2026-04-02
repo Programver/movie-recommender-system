@@ -167,7 +167,7 @@ If you plan to regenerate the model artifacts, make sure those libraries are ins
 
 ## Limitations
 
-- The recommender is content-based, so it does not learn from user behavior or ratings
+- The recommender is content-based, so it does not learn from user behaviour or ratings
 - Recommendation quality depends heavily on how the `tags` field was engineered
 - Poster fetching depends on TMDb API availability
 - The current app uses precomputed model files, so updating the dataset requires rebuilding artifacts
@@ -181,12 +181,3 @@ If you plan to regenerate the model artifacts, make sure those libraries are ins
 - Store only top-k similar movies to reduce memory usage
 - Add unit tests and better model-building documentation
 
-## Why This Project Matters
-
-This project is a practical demonstration of how recommendation systems can be built using classical machine learning and deployed as interactive data apps. It is especially useful for showcasing applied Python, feature engineering, similarity-based retrieval, and end-to-end project deployment.
-
-## Author
-
-**Natabar Pradhan**
-
-If you use or fork this project, feel free to connect, contribute, or improve the recommendation pipeline further.
