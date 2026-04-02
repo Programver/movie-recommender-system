@@ -180,4 +180,5 @@ If you plan to regenerate the model artifacts, make sure those libraries are ins
 - Add hybrid or collaborative filtering methods
 - Store only top-k similar movies to reduce memory usage
 - Add unit tests and better model-building documentation
-
+## app link
+https://movie-recommender-system-zdro2bzdiifh9lzibfd8af.streamlit.app/
